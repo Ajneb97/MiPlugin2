@@ -1,0 +1,14 @@
+# Configuración del plugin MiPlugin2
+messages:
+  prevent_block_break: "&c¡No puedes romper bloques aquí!"
+config:
+  welcome_message:
+    # Define si esta activado o no el mensaje de bienvenida, usa true/false
+    enabled: true
+    message:
+      - "&a&m                                              "
+      - ""
+      - "&f¡Bienvenido &b&l%player% &fal servidor!"
+      - "&fEsperamos disfrutes de tu estadia ;)"
+      - ""
+      - "&a&m                                              "

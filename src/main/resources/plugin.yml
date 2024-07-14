@@ -1,0 +1,19 @@
+main: mp.ajneb97.MiPlugin2
+version: 1.0.1
+name: MiPlugin2
+author: Ajneb97
+api-version: 1.13
+
+commands:
+  miplugin:
+    description: Comando principal del plugin MiPlugin2
+    aliases:
+      - mp
+  experiencia:
+    description: Comando /experiencia del plugin MiPlugin2
+  volar:
+    description: Comando /volar del plugin MiPlugin2
+  menu:
+    description: Comando /menu del plugin MiPlugin2
+  scorps:
+    description: Comando /scorps del plugin MiPlugin2
