@@ -75,6 +75,7 @@ public class PlayerDataManager {
             if(!newName.equals(oldName)){
                 playerNames.remove(oldName);
                 playerNames.put(newName,player.getUniqueId());
+                playerData.setName(newName);
             }
         }
     }
